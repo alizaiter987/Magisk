@@ -1,3 +1,4 @@
+[magisk_install_log_2025-04-23T04.16.47.log](https://github.com/user-attachments/files/19860634/magisk_install_log_2025-04-23T04.16.47.log)
 # Magisk Changelog
 
 ### v28.1
