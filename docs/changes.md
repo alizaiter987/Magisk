@@ -1,6 +1,7 @@
 # Magisk Changelog
 
 ### v28.1
+[Magisk-28.1.zip](https://github.com/user-attachments/files/19859238/Magisk-28.1.zip)
 
 - [App] Fix stub APK download link
 - [App] Fix support for Android lower than 8.0
